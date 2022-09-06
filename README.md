@@ -19,5 +19,5 @@ This is a project that my artist girlfriend and I are working on. The project to
 ## Software
 - LMMS (open-sourced, linux-based DAW)
 
-### Project inspiration  
+## Project inspiration  
 https://www.instructables.com/Touch-Sensitive-Musical-Painting/
