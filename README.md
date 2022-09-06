@@ -1,7 +1,7 @@
 # Musical-Touch-Art  
 This is a project that my artist girlfriend and I are working on. The project to create a conductive-touch paint, which sends MIDI input to produce auxiliary tones, elevating the piece to the tactile and auditory senses.
 
-## Hardware:  
+## Hardware  
 - Arduino  
 - 7-12v 1amp power supply  
 - Libre computer board  
@@ -16,8 +16,8 @@ This is a project that my artist girlfriend and I are working on. The project to
 - Wood canvas  
 - Acrylic paint  
 
-## Software  
+## Software
 - LMMS (open-sourced, linux-based DAW)
 
-### Project-insiration  
+### Project inspiration  
 https://www.instructables.com/Touch-Sensitive-Musical-Painting/
