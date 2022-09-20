@@ -37,9 +37,13 @@ void loop()
     long total3 = cs_4_8.capacitiveSensor(30);
 
     Serial.print(millis() - start); // check on performance in milliseconds
-    Serial.print("\t");             // tab character for debug windown spacing
+    Serial.print("\t"); 
 
     Serial.println(total3); // print sensor output 3
+
+    if(total3 > 400) {
+      tone(9, 440, 10);
+    }
 
     delay(10); // arbitrary delay to limit data to serial port
 }
