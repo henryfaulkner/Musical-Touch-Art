@@ -4,6 +4,7 @@
  * @brief
  * https://www.instructables.com/Send-and-Receive-MIDI-with-Arduino/
  * https://www.instructables.com/What-is-MIDI/
+ * https://www.makeuseof/tag/make-midi-controller-arduino
  */
 
 // higher velocity might make the instrument louder
