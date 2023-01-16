@@ -26,6 +26,6 @@ This is a project that an artist, Allison Griese, and I are working on. The proj
 
 https://www.instructables.com/Touch-Sensitive-Musical-Painting/
 
-## Librarys
+## Libraries
 
 - CapacitiveSensor (https://www.arduino.cc/reference/en/libraries/capacitivesensor/)
